@@ -1,0 +1,1 @@
+mix run tapestry.exs [num_nodes] [num_requests]
